@@ -26,3 +26,5 @@ nilai = [80, 60, 90, 70]
 print("Rata-rata:", hitung_rata_rata(nilai))
 print("Status 60:", status(60))
 print("Tertinggi:", nilai_tertinggi(nilai))
+print("Rata-rata data kosong:", hitung_rata_rata([]))
+print("Nilai tertinggi data kosong:", nilai_tertinggi([]))
